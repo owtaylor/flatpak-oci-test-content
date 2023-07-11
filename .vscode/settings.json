@@ -1,0 +1,11 @@
+{
+    "editor.rulers": [
+        100
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "files.exclude": {
+        "oci-*": true
+    }
+}
